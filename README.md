@@ -94,14 +94,8 @@ Popout is an application that's dedicated to taking your day-to-day tasks, and c
 - Sign In
 - Sign Up ("Create an Account")
 - Home Page (Signed In)
-- Live timer within tasks
+- Pomodoro Timer
 
-<!-- ### ERD
-![erd](https://i.imgur.com/03vyqND.png)
-
-### Component Hierarchy
-![Hierarchy](https://i.imgur.com/auP8bPn.png)
- -->
 ### Wireframes
 https://www.figma.com/file/ElonPdvN9pOhtHvy6OoZoi/Popout?node-id=0%3A1
 ![Wireframes](https://i.imgur.com/Ha7LOwj.jpg)
